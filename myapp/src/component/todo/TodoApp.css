@@ -1,0 +1,14 @@
+button{
+    background-color: green;
+    font-size: 25px;
+    padding: 10px,20px;
+    color:white;
+    height: 40px;
+    width: 135px;
+
+}
+body{
+    background-color: rgb(227, 236, 235);
+    padding: 15px,30px;
+   
+}
